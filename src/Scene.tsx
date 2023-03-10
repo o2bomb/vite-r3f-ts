@@ -1,6 +1,6 @@
 export interface SceneProps {}
 
-export const Scene = ({}: SceneProps) => {
+export const Scene = () => {
   return (
     <mesh>
       <boxGeometry />
