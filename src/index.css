@@ -1,0 +1,15 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  color: white;
+  font-family: Helvetica, Tahoma, sans-serif;
+}
+
+#root {
+  position: relative;
+}
